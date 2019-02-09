@@ -1,4 +1,4 @@
 # hello-world
-Testen
+Testen: Enring i master
 
-La til noe i readme-edits
+La til noe viktig i readme-edits
