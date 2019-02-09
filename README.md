@@ -1,4 +1,5 @@
 # hello-world
-Testen
+Testen: Dev
 
-La til noe i readme-edits
+La til noe uviktig i readme-edits
+Pluss noe nytt viktig i Dev
