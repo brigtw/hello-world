@@ -1,5 +1,5 @@
 # hello-world
-Testen: Dev
+Testen: Enring i master
 
-La til noe uviktig i readme-edits
+La til noe viktig i readme-edits
 Pluss noe nytt viktig i Dev
